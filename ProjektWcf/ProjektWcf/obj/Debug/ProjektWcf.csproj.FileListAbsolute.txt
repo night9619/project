@@ -1,0 +1,14 @@
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWcf\ProjektWcf\bin\Debug\ProjektWcf.dll.config
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWcf\ProjektWcf\bin\Debug\ProjektWcf.dll
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWcf\ProjektWcf\bin\Debug\ProjektWcf.pdb
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.csprojAssemblyReference.cache
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.csproj.CoreCompileInputs.cache
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.dll
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.pdb
+C:\Users\night\Desktop\Projekt\ProjektWcf\ProjektWcf\bin\Debug\ProjektWcf.dll.config
+C:\Users\night\Desktop\Projekt\ProjektWcf\ProjektWcf\bin\Debug\ProjektWcf.dll
+C:\Users\night\Desktop\Projekt\ProjektWcf\ProjektWcf\bin\Debug\ProjektWcf.pdb
+C:\Users\night\Desktop\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.csprojAssemblyReference.cache
+C:\Users\night\Desktop\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.csproj.CoreCompileInputs.cache
+C:\Users\night\Desktop\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.dll
+C:\Users\night\Desktop\Projekt\ProjektWcf\ProjektWcf\obj\Debug\ProjektWcf.pdb

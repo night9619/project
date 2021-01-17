@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ObliczService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IObliczService_srednieSpalanie_InputMessage">
+    <wsdl:part name="parameters" element="tns:srednieSpalanie" />
+  </wsdl:message>
+  <wsdl:message name="IObliczService_srednieSpalanie_OutputMessage">
+    <wsdl:part name="parameters" element="tns:srednieSpalanieResponse" />
+  </wsdl:message>
+  <wsdl:message name="IObliczService_koszt1km_InputMessage">
+    <wsdl:part name="parameters" element="tns:koszt1km" />
+  </wsdl:message>
+  <wsdl:message name="IObliczService_koszt1km_OutputMessage">
+    <wsdl:part name="parameters" element="tns:koszt1kmResponse" />
+  </wsdl:message>
+  <wsdl:message name="IObliczService_koszt100km_InputMessage">
+    <wsdl:part name="parameters" element="tns:koszt100km" />
+  </wsdl:message>
+  <wsdl:message name="IObliczService_koszt100km_OutputMessage">
+    <wsdl:part name="parameters" element="tns:koszt100kmResponse" />
+  </wsdl:message>
+  <wsdl:message name="IObliczService_kosztXkm_InputMessage">
+    <wsdl:part name="parameters" element="tns:kosztXkm" />
+  </wsdl:message>
+  <wsdl:message name="IObliczService_kosztXkm_OutputMessage">
+    <wsdl:part name="parameters" element="tns:kosztXkmResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IObliczService">
+    <wsdl:operation name="srednieSpalanie">
+      <wsdl:input wsaw:Action="http://tempuri.org/IObliczService/srednieSpalanie" message="tns:IObliczService_srednieSpalanie_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IObliczService/srednieSpalanieResponse" message="tns:IObliczService_srednieSpalanie_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="koszt1km">
+      <wsdl:input wsaw:Action="http://tempuri.org/IObliczService/koszt1km" message="tns:IObliczService_koszt1km_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IObliczService/koszt1kmResponse" message="tns:IObliczService_koszt1km_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="koszt100km">
+      <wsdl:input wsaw:Action="http://tempuri.org/IObliczService/koszt100km" message="tns:IObliczService_koszt100km_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IObliczService/koszt100kmResponse" message="tns:IObliczService_koszt100km_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="kosztXkm">
+      <wsdl:input wsaw:Action="http://tempuri.org/IObliczService/kosztXkm" message="tns:IObliczService_kosztXkm_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IObliczService/kosztXkmResponse" message="tns:IObliczService_kosztXkm_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IObliczService" type="tns:IObliczService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="srednieSpalanie">
+      <soap:operation soapAction="http://tempuri.org/IObliczService/srednieSpalanie" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="koszt1km">
+      <soap:operation soapAction="http://tempuri.org/IObliczService/koszt1km" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="koszt100km">
+      <soap:operation soapAction="http://tempuri.org/IObliczService/koszt100km" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="kosztXkm">
+      <soap:operation soapAction="http://tempuri.org/IObliczService/kosztXkm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ObliczService">
+    <wsdl:port name="BasicHttpBinding_IObliczService" binding="tns:BasicHttpBinding_IObliczService">
+      <soap:address location="http://localhost:2222/ProjektWcf/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,32 @@
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.csprojAssemblyReference.cache
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\NowyWpis.g.cs
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\App.g.cs
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf_MarkupCompile.cache
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf_MarkupCompile.lref
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\bin\Debug\ProjektWpf.exe.config
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\bin\Debug\ProjektWpf.exe
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\bin\Debug\ProjektWpf.pdb
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\NowyWpis.baml
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.g.resources
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.Properties.Resources.resources
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.csproj.GenerateResource.cache
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.csproj.CoreCompileInputs.cache
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.exe
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.pdb
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\MainWindow.g.cs
+C:\STUDIA\Semestr 2\Programowanie współbieżne i rozproszone\lab\Projekt\ProjektWpf\ProjektWpf\obj\Debug\MainWindow.baml
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\bin\Debug\ProjektWpf.exe.config
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\bin\Debug\ProjektWpf.exe
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\bin\Debug\ProjektWpf.pdb
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.csprojAssemblyReference.cache
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\NowyWpis.g.cs
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\App.g.cs
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf_MarkupCompile.cache
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf_MarkupCompile.lref
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\NowyWpis.baml
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.g.resources
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.Properties.Resources.resources
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.csproj.GenerateResource.cache
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.csproj.CoreCompileInputs.cache
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.exe
+C:\Users\night\Desktop\Projekt\ProjektWpf\ProjektWpf\obj\Debug\ProjektWpf.pdb

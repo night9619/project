@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="srednieSpalanie">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="paliwo" type="xs:double" />
+        <xs:element minOccurs="0" name="km" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="srednieSpalanieResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="srednieSpalanieResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="koszt1km">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="paliwo" type="xs:double" />
+        <xs:element minOccurs="0" name="km" type="xs:double" />
+        <xs:element minOccurs="0" name="cena" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="koszt1kmResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="koszt1kmResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="koszt100km">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="paliwo" type="xs:double" />
+        <xs:element minOccurs="0" name="km" type="xs:double" />
+        <xs:element minOccurs="0" name="cena" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="koszt100kmResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="koszt100kmResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="kosztXkm">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="paliwo" type="xs:double" />
+        <xs:element minOccurs="0" name="km" type="xs:double" />
+        <xs:element minOccurs="0" name="cena" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="kosztXkmResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kosztXkmResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
